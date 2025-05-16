@@ -1,0 +1,12 @@
+streamlit
+pandas
+Pillow
+wordcloud
+matplotlib
+requests
+nltk
+Sastrawi
+googletrans>=3.1.0a0 
+transformers
+torch
+
